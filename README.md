@@ -1,7 +1,9 @@
 # RefreshRateChanger
 Simple util that detects wheather you laptop is plugged/unplugged and reduces/increases your screen refresh rate and brightness and notifies you about it.
+Example:
 
 <img width="317" height="142" alt="image" src="https://github.com/user-attachments/assets/d6a7eb95-cbc8-4a55-b66b-7963616ec807" />
+
 
 
 No config is presented right now, you have to manually edit code: change these values:
@@ -18,5 +20,5 @@ You can also add executable to task scheduler. Here are my screens of how to con
 <img width="1799" height="936" alt="image" src="https://github.com/user-attachments/assets/ba655029-b021-453a-99c1-41e1498e792f" />
 <img width="1811" height="940" alt="image" src="https://github.com/user-attachments/assets/16d4139c-b040-411b-beb7-5c0059a8924a" />
 
-
+Visual basic script is used to headlessly start a program, without annoying terminal windows falshes.
 
