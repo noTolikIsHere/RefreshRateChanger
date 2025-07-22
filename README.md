@@ -1,5 +1,5 @@
 # RefreshRateChanger
-Simple util that detects wheather you laptop is plugged/unplugged and reduces/increases your screen refresh rate and brightness and notifies you about it.
+Simple util that detects wheather you laptop is plugged/unplugged and reduces/increases its screen refresh rate and brightness and notifies you about it.
 Example:
 
 <img width="317" height="142" alt="image" src="https://github.com/user-attachments/assets/d6a7eb95-cbc8-4a55-b66b-7963616ec807" />
